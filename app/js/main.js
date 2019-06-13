@@ -1,5 +1,6 @@
 $(function(){
     $('.top__slider').slick({
-        arrows: true
+        arrows: true,
+        infinite: false
     });
 });
